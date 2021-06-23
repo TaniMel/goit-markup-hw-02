@@ -87,7 +87,6 @@ body {
   font-size: 16px;
   line-height: 1.86;
   align-items: center;
-  text-align: center;
   letter-spacing: 0.06em;
   cursor: pointer;
 }
@@ -172,8 +171,11 @@ body {
   color: #ffffff;
 }
 
+.contact-list a {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
 .info-address {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   text-align: left;
@@ -182,13 +184,9 @@ body {
   color: #ffffff;
 }
 
-.contact-list a {
-  font-style: normal;
-}
 .info-footer {
-  font-weight: 400;
   font-size: 14px;
-  line-height: 1.72;
+  line-height: 1.71;
   text-align: left;
   vertical-align: top;
   letter-spacing: 0.03em;
@@ -198,6 +196,7 @@ body {
 /* ========== Портфолiо =========== */
 
 .modal-button {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
