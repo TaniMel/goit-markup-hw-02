@@ -122,7 +122,7 @@ body {
   line-height: 1.71;
   box-align: left;
   vertical-align: top;
-  letter-spacing: 0, 03em;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 
@@ -131,7 +131,7 @@ body {
 .teamwork-title,
 .team-title {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 36px;
   line-height: 1.17;
   text-align: center;
   vertical-align: top;
